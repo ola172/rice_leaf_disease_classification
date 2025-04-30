@@ -1,0 +1,1 @@
+To download dataset from kaggle : https://www.kaggle.com/datasets/vbookshelf/rice-leaf-diseases
